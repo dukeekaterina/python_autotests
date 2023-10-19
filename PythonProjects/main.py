@@ -1,6 +1,6 @@
 import requests
 
-token = "c92de10ef099b36767d4964ddf728154"
+token = "..."
 
 '''response_kill = requests.post('https://api.pokemonbattle.me:9104/pokemons/kill', 
                                 json = {"pokemon_id": "12724"}, 
